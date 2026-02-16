@@ -1,5 +1,7 @@
-Sales Vendor Performance Analysis
- Project Overview:-
+Sales Vendor Performance Analysis:-
+
+
+Project Overview:-
 
 This project analyzes vendor-level sales and profitability data to identify top-performing vendors, cost contributors, and overall business impact. The objective was to apply SQL and Python-based data analysis techniques to extract actionable insights.
 
